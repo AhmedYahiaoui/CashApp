@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Ce fichier est utilisé par le processus de publication/package de votre projet web. Vous pouvez personnaliser le comportement de ce processus
+en modifiant ce fichier MSBuild. Pour en savoir plus à ce sujet, visitez https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAn0Xe1fS4akC9HHnMk9HeQAAAAAACAAAAAAAQZgAAAAEAACAAAABf6V0NS4K2WF01IgygVaOYGL9KG5KjthEWsL9aVAklSQAAAAAOgAAAAAIAACAAAAChEwB9ttvqHvcFsZrnO0ic1dBBTYr+BW6AXGnxo55CFyAAAADjcPg6jC7ux0Yq1oYMOFZAutfw4XrBVKMeofbOdC0snUAAAADw2TWMXx7uZb7t2goKX8VKo9oQc7dkTLYaljwXnnT3OdW1ivxZJyQNy78myxg2XdA7Os7Zc4u2Htn1R4YeXCOS</EncryptedPassword>
+    <History>False|2021-05-20T10:55:16.2660174Z;False|2021-05-20T11:38:11.4327076+01:00;</History>
+    <_PublishTargetUrl>ftp://devAhmed2021@brainy-tn.com/devAhmed2021.brainy-tn.com/net</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>05/18/2021 19:19:42</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>05/19/2021 01:57:41</publishTime>
+    </File>
+    <File Include="BCrypt.Net-Next.dll">
+      <publishTime>11/19/2020 10:27:06</publishTime>
+    </File>
+    <File Include="CashApp.deps.json">
+      <publishTime>05/20/2021 11:32:35</publishTime>
+    </File>
+    <File Include="CashApp.dll">
+      <publishTime>05/20/2021 11:32:34</publishTime>
+    </File>
+    <File Include="CashApp.exe">
+      <publishTime>05/20/2021 11:32:34</publishTime>
+    </File>
+    <File Include="CashApp.pdb">
+      <publishTime>05/20/2021 11:32:34</publishTime>
+    </File>
+    <File Include="CashApp.runtimeconfig.json">
+      <publishTime>05/20/2021 11:32:35</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Authentication.JwtBearer.dll">
+      <publishTime>07/22/2020 23:10:08</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.JsonPatch.dll">
+      <publishTime>03/16/2021 18:02:54</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll">
+      <publishTime>03/16/2021 18:16:12</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.NodeServices.dll">
+      <publishTime>04/15/2021 23:33:26</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.SpaServices.dll">
+      <publishTime>04/15/2021 23:38:34</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.SpaServices.Extensions.dll">
+      <publishTime>04/15/2021 23:38:38</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.dll">
+      <publishTime>08/25/2020 23:24:48</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>08/25/2020 20:34:56</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.SNI.pdb">
+      <publishTime>08/25/2020 20:31:56</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>10/24/2020 06:39:40</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>10/24/2020 06:40:02</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.dll">
+      <publishTime>10/24/2020 06:40:08</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.SqlServer.dll">
+      <publishTime>10/24/2020 06:41:00</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Caching.Abstractions.dll">
+      <publishTime>10/19/2020 18:48:26</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Caching.Memory.dll">
+      <publishTime>10/19/2020 18:48:36</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.Abstractions.dll">
+      <publishTime>10/19/2020 18:48:28</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.Binder.dll">
+      <publishTime>04/15/2021 01:15:16</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.FileProviders.Physical.dll">
+      <publishTime>04/15/2021 01:14:36</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.FileSystemGlobbing.dll">
+      <publishTime>04/15/2021 01:16:42</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Logging.Abstractions.dll">
+      <publishTime>10/19/2020 18:48:04</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Logging.Configuration.dll">
+      <publishTime>04/15/2021 01:18:18</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Logging.Console.dll">
+      <publishTime>04/15/2021 01:19:26</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Logging.dll">
+      <publishTime>10/19/2020 18:53:18</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Options.ConfigurationExtensions.dll">
+      <publishTime>04/15/2021 01:18:08</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Options.dll">
+      <publishTime>10/19/2020 18:48:30</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Primitives.dll">
+      <publishTime>10/19/2020 18:48:36</publishTime>
+    </File>
+    <File Include="Microsoft.Identity.Client.dll">
+      <publishTime>05/18/2020 20:11:54</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>04/26/2021 19:56:48</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>04/26/2021 19:59:22</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>10/18/2019 23:41:02</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>10/18/2019 23:48:48</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>04/26/2021 20:04:04</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
